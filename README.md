@@ -10,6 +10,7 @@ https://github.com/EbookFoundation/free-programming-books
 
 # Coding Interviews:
 https://github.com/jwasham/coding-interview-university
+
 https://github.com/yangshun/tech-interview-handbook
 
 # Roadmaps:
@@ -17,12 +18,16 @@ https://github.com/kamranahmedse/developer-roadmap
 
 # Advanced Projects:
 https://github.com/danistefanovic/build-your-own-x
+
 https://github.com/donnemartin/system-design-primer
 
 # Random topics:
 https://github.com/mtdvio/every-programmer-should-know
+
 https://github.com/sindresorhus/awesome
+
 https://github.com/jlevy/the-art-of-command-line
+
 
 # Your Go-To:
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit
